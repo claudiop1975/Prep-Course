@@ -1,0 +1,12 @@
+FOR:
+El for es un bucle de repetición que sirve para repetir una acción, mientras que una condición dada al mismo, sea verdadera.
+
+&& - || - !:
+Éstos son operadores lógicos que se usan para combinar dos valores booleanos y obtene un resultado TRUE o FALSE.
+&& : (and) o (y)
+|| : (or) u (o)
+!  : (not) o (negar)
+
+a && b: Esto nos dará un resultado TRUE, solo en el caso que A y B sean TRUE, sino nos dará FALSE.
+a || b: Esto nos dará un resultado FALSE, solo en el caso que A y B sean FALSE, sino nos dará TRUE.
+!a o !b:  Esto cambiará el valor original de cada dato, si A o B eran TRUE se volverá FALSE, y viceversa.
