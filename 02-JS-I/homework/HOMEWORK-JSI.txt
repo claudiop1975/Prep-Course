@@ -1,0 +1,27 @@
+VARIABLE: 
+Una Variable es un espacio que se "reserva" en la memoria para guardar un "valor" que será usado después, pude ser un valor, "variable", "cambiable" o "reasignable", SEGUN LO NECESITEMOS, o pude ser tambien un valor "constante" de acuerdo a como lo determinemos o establezcamos al crear la variable.
+Estas puden crearse con var: "variable", "cambiable" o "reasignable"
+                        let: "variable", "cambiable" o "reasignable".
+O puden contener si así lo decidimos un "valor" que será constante y no podremos luego utilizar esa misma variable con otro valor; Estas se crean con:
+                        const: "constante", "no cambiable" o "no reasignable".
+
+STRING: 
+es uno o un conjunto de caracteres definidos por el sistema y que al momento de programar deben ser escrito dentro del código entre '' o "", para que así el sistema pueda distinguirlos del texto o de la escritura del que estamos usando para programar (estos pueden incluir letras, números, y algunos signos).
+
+FUNCIÓN:
+Una funciión es un fragmento de código, un conjunto de instrucciónes que realizarán una tarea o un calculo o una función propiamente dicha, a partir de uno o mas valores de entrada que le será asignado y nos arrojará algun tipo de resultado, retorno o salida.
+
+Declaraciones IF:
+la declaración IF o (si), es un código de programación que Controla el flujo de un dato, y en base a lo que pongamos tomaremos una decisión o ejecutaremos una u otra cosa, similar a decir (SI ÉSTO PASA, haremos ésto).
+Generalmente lo encontramos dentro del flujo de datos de una función, y los utilizamos según la complejidad de la función sólo, o con un par de compañeros que le ayudaran a manejar ese flujo de datos, ellos son:
+
+"ELSE IF": que sería una segunda decisión. Como dijimos antes:
+("IF" --> SI ÉSTO PASA, haremos ésto).
+("ELSE IF --> SINO, SI PASA ESTO OTRO, haremos ésto otro).
+
+O si la decisión es más simple de tomar usa sólo este compañero:
+("IF" --> SI ÉSTO PASA, haremos ésto).
+("ELSE --> SINO, haremos ésto otro).
+
+VALORES BOOLEANOS:
+un valor booleano representa una concepto de verdad binaria (0 o 1), verdadero o Falso, TRUE o FALSE.
