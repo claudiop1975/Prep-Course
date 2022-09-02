@@ -1,0 +1,4 @@
+ARRAY:
+El array o (ARREGLO en español) de JavaScript es un objeto global que es usado en la construcción de arreglos, que son objetos tipo lista de alto nivel.
+
+Que significa que básicamente funciona como una variable, que en vez de contener un valor, puede contener muchos valores y de forma ordena en un indice, o (indexada), lo que nos facilita la posibilidad de acceder de muchas maneras a sus contenidos a través de ese indexamiento.
