@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+* _Constructors_ (de Clases)
+
+
+PROTOTYPE:
+es un comando que agrega un metodo a un objeto mediante el cual podremos acceder a un dato específico propio de dicho objeto. en algunas ocaciones los metodos puden ser compartidos por diferentes objetos.
+
+CONSTRUCTOR:
+un constructor de classes es como una fábrica de objetos de una classe determinada es como el asisten de la clase que creará objetos de similares características a as de su clase, pero diferenciados entre si por la variación de particular de cada uno de sus parámetros.  
