@@ -1,0 +1,3 @@
+CALLBACK:
+
+Un Callback es basicamente una función que puede ser llamada desde otra función, o sea una función sevirá de argumento a otra, y que recibirá uno o más parametros para cumplir con su cometido.
