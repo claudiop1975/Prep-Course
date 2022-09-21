@@ -1,0 +1,53 @@
+* {
+    font-family: 'Pacifico', cursive;
+    
+}
+html {
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-creativo-textura-rugosa-pintada_23-2149640548.jpg?w=1800&t=st=1663531736~exp=1663532336~hmac=b3369164d789a294911f8308e83eb4222f33a7e39c677b9651219464bbb30899);
+}
+        
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+div {
+
+    margin: auto;
+}
+
+div ul li img {
+    margin-top: 4px;
+    border: 1px solid rgb(4, 133, 124);
+    width: 400px;
+}
+#ThirdDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 5px solid rgb(123, 4, 4); */
+    /* border-right: 5px solid rgb(123, 4, 4);
+    border-bottom: 5px solid rgb(123, 4, 4);
+    border-left: 5px solid rgb(123, 4, 4); */
+    background-color: darkgreen;    
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 3px solid rgb(87, 0, 0);
+         
+}
+#SpanId{
+    margin: 50px;
+    font-size: 18px;
+}
+ul {
+    align-self: center;
+    
+}
